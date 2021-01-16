@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `電験まとめ`,
+    defaultTitle: `電験まとめ`,
+    siteTitleShort: `電験まとめ`,
+    siteDescription: `電気主任技術者試験の勉強用サイト`,
+    siteUrl: `https://nao0221.github.io/`,
+    siteAuthor: `nao0221`,
     siteImage: `/banner.png`,
-    siteLanguage: `en`,
+    siteLanguage: `ja`,
     themeColor: `#8257E6`,
     basePath: `/`,
   },
@@ -17,8 +17,8 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
+        githubUrl: `https://github.com/nao0221/nao0221.github.io/`,
+        baseDir: `gatsby-starter-rocket-docs`,
       },
     },
     {

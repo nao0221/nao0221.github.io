@@ -4,6 +4,16 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+- label: "学習記録"
+  items:
+    - label: 'ニ種徹底マスター 理論'
+      link: '/referencebook/riron_t2ohm'
+    - label: 'ニ種徹底マスター 電力'
+      link: '/referencebook/denryoku_t2ohm'
+    - label: 'ニ種徹底マスター 機械'
+      link: '/referencebook/kikai_t2ohm'
+    - label: 'ニ種徹底マスター 法規'
+      link: '/referencebook/houki_t2ohm'
 - label: Usage
   items:
     - label: 'Creating docs'
@@ -20,5 +30,5 @@
       link: /changelog
 - label: Community
   items:
-    - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+    - label: 'Amazon'
+      link: https://Amazon.co.jp
