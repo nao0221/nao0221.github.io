@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `電験まとめ`,
-    defaultTitle: `電験まとめ`,
-    siteTitleShort: `電験まとめ`,
+    siteTitle: `電験2種学習記録`,
+    defaultTitle: `電験2種学習記録`,
+    siteTitleShort: `電験2種学習記録`,
     siteDescription: `電気主任技術者試験の勉強用サイト`,
     siteUrl: `https://nao0221.github.io/`,
     siteAuthor: `nao0221`,

@@ -1,10 +1,8 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'Top'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: "学習記録"
+- label: "参考書"
   items:
     - label: 'ニ種徹底マスター 理論'
       link: '/referencebook/riron_t2ohm'
@@ -14,21 +12,13 @@
       link: '/referencebook/kikai_t2ohm'
     - label: 'ニ種徹底マスター 法規'
       link: '/referencebook/houki_t2ohm'
-- label: Usage
+- label: "過去問"
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-- label: More
+    - label: '1次試験'
+      link: '/kakomon/kakomon1'
+    - label: '2次試験'
+      link: '/kakomon/kakomon2'
+- label: 'SNS'
   items:
-    - label: FAQ
-      link: /faq
-    - label: Changelog
-      link: /changelog
-- label: Community
-  items:
-    - label: 'Amazon'
-      link: https://Amazon.co.jp
+    - label: 'Twitter'
+      link: https://twitter.com/gedo_denki0221
