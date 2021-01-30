@@ -2,17 +2,17 @@
 
 - label: 'Top'
   link: '/'
-- label: "参考書"
+- label: "参考書（済）"
   items:
     - label: 'ニ種徹底マスター 理論'
-      link: '/referencebook/riron_t2ohm'
+      link: '/tetsumasu/riron'
     - label: 'ニ種徹底マスター 電力'
-      link: '/referencebook/denryoku_t2ohm'
+      link: '/tetsumasu/denryoku'
     - label: 'ニ種徹底マスター 機械'
-      link: '/referencebook/kikai_t2ohm'
+      link: '/tetsumasu/kikai'
     - label: 'ニ種徹底マスター 法規'
-      link: '/referencebook/houki_t2ohm'
-- label: "過去問"
+      link: '/tetsumasu/houki'
+- label: "過去問 記録"
   items:
     - label: '1次試験'
       link: '/kakomon/kakomon1'
