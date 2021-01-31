@@ -2,7 +2,7 @@
 
 - label: 'Top'
   link: '/'
-- label: "参考書（済）"
+- label: "参考書（完了）"
   items:
     - label: 'ニ種徹底マスター 理論'
       link: '/tetsumasu/riron'
@@ -10,6 +10,10 @@
       link: '/tetsumasu/denryoku'
     - label: 'ニ種徹底マスター 機械'
       link: '/tetsumasu/kikai'
+    - label: '電験2種 電気数学'
+      link: '/math/denkisuugaku'
+- label: "参考書（未完了）"
+  items:
     - label: 'ニ種徹底マスター 法規'
       link: '/tetsumasu/houki'
 - label: "過去問 記録"

@@ -3,8 +3,9 @@
 <url> <loc>https://nao0221.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nao0221.github.io/kakomon/kakomon1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nao0221.github.io/kakomon/kakomon2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://nao0221.github.io/tetsumasu/denryoku</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nao0221.github.io/math/denkisuugaku</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nao0221.github.io/tetsumasu/houki</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nao0221.github.io/tetsumasu/kikai</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nao0221.github.io/tetsumasu/denryoku</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nao0221.github.io/tetsumasu/riron</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
